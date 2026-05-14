@@ -95,3 +95,12 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+# Membre du groupe et taux de participation de chaqu'un
+FOSSONG TSOFACK PATRICIA 24G2975 70%
+FONKOU DEFFO RYAN 24W2305 70%
+TEZEU NOUMBI YANN MANUEL 23H2012 70% 
+BIPON SAMUEL ALBERT 24H2182 70%
+Kamga Mukam Charles 24G2128 100%
+DOUNTIO MELI SERENA 24H2209 100%
+TAGNE FONO DAVID 24H2005 70%
+TCHOUTA HAPPPI CLAUDE ARIELLE 24G2523 70%
